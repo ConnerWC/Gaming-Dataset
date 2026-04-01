@@ -12,7 +12,7 @@ Open the shop,open_store,NEUTRAL
 That boss fight was awesome!,ask_help,POSITIVE
 Increase the volume,adjust_settings,NEUTRAL
 I'm tired of getting matched with bad teammates.,send_message,NEGATIVE
-Great job team, we crushed that match!,send_message,POSITIVE
+Great job team we crushed that match!,send_message,POSITIVE
 Pause the game,pause_game,NEUTRAL
 This boss fight is ridiculous and unbalanced.,ask_help,NEGATIVE
 Begin the mission,start_game,NEUTRAL
